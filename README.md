@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Image Resizer Lambda
 
 This Lambda will be invoked when a file is uploaded to a particular bucket. It will fetch the file that was added, resize it, and store the output in a different bucket.
@@ -32,3 +33,6 @@ npm run package
 ```
 
 Running the command above will zip your source code and dependencies. The zip can then be uploaded to your Lambda.
+=======
+# Image-Compressor
+>>>>>>> 5c4a741726c6746953025016f8094f579e4a1718
